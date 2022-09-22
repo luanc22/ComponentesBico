@@ -4,8 +4,8 @@
  - logo
  - TextField - ok!
  - Botões: 
-    Padrão(Amarelo) - ok!
-    Fundo transparente - ok!
-    Desabilitado - ok!
+    - Padrão(Amarelo) - ok!
+    - Fundo transparente - ok!
+    - Desabilitado - ok!
  - Label Button
  - Alert Component
